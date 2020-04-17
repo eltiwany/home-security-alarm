@@ -20,7 +20,7 @@ Home Security Alarm System Using Arduino and Ultrasonic Sensor HC-SR04
     Terminal II - GND
 
 # Arduino Code
-
+```
 // defines pins numbers
 const int trigPin = 10;
 const int echoPin = 9;
@@ -104,4 +104,5 @@ void loop() {
     }
   }
 }
+```
     
